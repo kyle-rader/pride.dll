@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pride", "Pride\Pride.csproj", "{B40E52A3-DB63-4749-8789-B7AF894C4828}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrideCli", "PrideCli\PrideCli.csproj", "{315C7504-6361-48E2-A77D-3A9068402BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40E52A3-DB63-4749-8789-B7AF894C4828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40E52A3-DB63-4749-8789-B7AF894C4828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40E52A3-DB63-4749-8789-B7AF894C4828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40E52A3-DB63-4749-8789-B7AF894C4828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315C7504-6361-48E2-A77D-3A9068402BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315C7504-6361-48E2-A77D-3A9068402BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315C7504-6361-48E2-A77D-3A9068402BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315C7504-6361-48E2-A77D-3A9068402BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D84B44-7932-49EA-91FE-F41861626EDA}
+	EndGlobalSection
+EndGlobal
